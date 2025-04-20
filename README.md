@@ -3,7 +3,7 @@ I am a bioinformatician passionate about analyzing omics data, applying machine 
 
 ##  Current Focus
 
-I’m currently working at **Boston University** on Alzheimer’s disease research. My projects involve:
+I’m currently working at Boston University on Alzheimer’s disease research. My projects involve:
 - Pathway analysis and modeling using GSVA, fgsea, and linear regression (manuscripts in preparation)
 - Cell cell interaction analysis (manuscripts in preparation)
 - Spatial transcriptomics analysis using Visium and MERFISH data
