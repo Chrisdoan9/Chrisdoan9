@@ -10,4 +10,4 @@ I’m currently working at Boston University on Alzheimer’s disease research. 
 
 ## Tools & Technologies
 
-- **Languages:** R, Python, Bash, R Shiny  
+- **Languages:** R, Python, Bash
