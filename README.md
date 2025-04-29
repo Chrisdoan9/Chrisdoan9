@@ -8,7 +8,7 @@ I’m currently working at Boston University on Alzheimer’s disease research. 
 - Cell cell interaction analysis (manuscripts in preparation)
 - Spatial transcriptomics analysis using Visium and MERFISH data
 
-## Language & Tools
+## Languages & Tools
 
 <img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
