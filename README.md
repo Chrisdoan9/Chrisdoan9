@@ -7,6 +7,8 @@ I’m currently working at Boston University on Alzheimer’s disease research. 
 - Pathway analysis and modeling using GSVA, fgsea, and linear regression (manuscripts in preparation)
 - Cell cell interaction analysis (manuscripts in preparation)
 - Spatial transcriptomics analysis using Visium and MERFISH data
+  
+I have two first-author manuscripts in preparation. One identifies protective pathways in APOE2 carriers and disease-driving pathways in APOE4 carriers, offering insight into why some people resist Alzheimer’s while others are at higher risk. The other uncovers cell-cell communication changes in Alzhimer's disease and cognitive resilience.
 
 ## Languages & Tools
 
