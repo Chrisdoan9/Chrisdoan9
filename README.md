@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m Chris Doan
-I am a bioinformatician with background as a pharmacist, passionate about analyzing omics data, applying machine learning, and building reproducible pipelines. My long-term goal is to contribute to research that helps slow down aging and understand the molecular mechanisms of age-related diseases. I enjoy reading research papers on molecular biology.
+I am a bioinformatician with background as a pharmacist, passionate about analyzing omics data, applying machine learning, and building reproducible pipelines. My long-term goal is to contribute to research that helps slow down aging and understand the molecular mechanisms of age-related diseases. I enjoy reading research papers on molecular biology. This is my website where I share my experiences and what I learn in my bioinformatics journey: chrisphdoan.github.io.
 
 During my time at Stanford University, I analyzed diverse range of omics data including bulk RNA-seq, single-cell RNA-seq, single-cell ATAC-seq for rare cardiovascular and aging related diseases.   
 At Boston University, I worked at on Alzheimer’s disease research. My projects involve:
